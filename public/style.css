@@ -685,39 +685,4 @@ input[type="submit"] {
     font-weight: bolder;
 
   }
-  /* Table */
  
-  table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-    font-size: 20px;
-    border-width: 3px;
-    overflow-x: auto;
-  }
-  
-  td {
-    border: 3px solid black;
-    text-align: left;
-    padding: 8px;
-  }
-  
-   th:hover {background-color: red;}
-  
-  th {
-    border: 5px solid black;
-    text-align: left;
-    padding: 11px;
-    background-color:#eeff00ee;
-  }
-    
-  tr:nth-child(even) {
-    background-color:#ffaa00 ; 
-      }
-      
-      tr:nth-child(odd) {
-     background-color: rgb(243, 228, 96);
-   }
-   tr:hover{ background-color: #acadbc;}
-
-  
